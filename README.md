@@ -1,5 +1,7 @@
 # doorbell-camera-pi
-Progressive Open-Source SASS solution for small and large businesses.
+Progressive Open-Source SASS solution for small and large businesses working in WEB!!1!1
+
+<img src="images/closeup.jpg" style="width: 50%;"/>
 
 Credits to: https://github.com/garyexplains
 
