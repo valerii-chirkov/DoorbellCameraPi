@@ -66,8 +66,8 @@ Now if you reboot or unplug your pi - it will restart the website by itself.
 
 Few images of how it is working (Yes I know it's ugly as hell!).
 
-![alt text](https://github.com/valerii-chirkov/doorbell-camera-pi/blob/main/images/closeup.jpg?raw=true)
+<img src="images/closeup.jpg" style="width: 50%;"/>
 
-![alt text](https://github.com/valerii-chirkov/doorbell-camera-pi/blob/main/images/from_distance.jpg?raw=true)
+<img src="images/from_distance.jpg" style="width: 50%;"/>
 
-![alt text](https://github.com/valerii-chirkov/doorbell-camera-pi/blob/main/images/mount.jpg?raw=true)
+<img src="images/mount.jpg" style="width: 50%;"/>
